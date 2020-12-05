@@ -10,7 +10,7 @@ Jorge Alvarez <alvarez.jeap@gmail.com>
 
 ## **Requirements***
 
-- [Keycloak Identity Provider](https://github.com/jealvarez/keycloak-demo)
+- [Keycloak Identity Management](https://github.com/jealvarez/keycloak-idm)
 - [REST API - SpringBoot](https://github.com/jealvarez/todo-app-api)
 - [REST API Client - SpringBoot](https://github.com/jealvarez/todo-app-ui)
 - [Keycloak User Profile - DotNet Core](https://github.com/jealvarez/KeycloakUserProfile)
